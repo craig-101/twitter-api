@@ -1,0 +1,18 @@
+{
+  "name": "twitter-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1",
+    "twitter-lite": "^0.12.0",
+    "twitter-rest-lite": "^0.3.8"
+  },
+  "devDependencies": {},
+  "description": ""
+}
